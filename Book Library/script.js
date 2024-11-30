@@ -13,10 +13,6 @@ function toggle() {
 }
 
 
-
-
-
-
 let myInput=document.getElementById("myInput");
 myInput.addEventListener("input", function(){
 
